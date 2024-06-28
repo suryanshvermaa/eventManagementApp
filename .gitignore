@@ -1,0 +1,11 @@
+appBackend/.env
+appBackend/.gitignore
+appBackend/node_modules
+appBackend/.env
+eventManagementApp/node_modules
+eventManagementApp/.gitignore
+eventManagementApp/.expo
+eventManagementApp/%ProgramData%
+
+
+

@@ -1,0 +1,17 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "componentParts/customiseTab.jsx", "app/(tabs)/index.jsx", "app/(auth)/index.jsx", "app/(tabs)/createevent.jsx", "componentParts/event.jsx", "componentParts/eventListCard.jsx", "app/(tabs)/myevents.jsx", "app/registerEvent/index.jsx", "app/searchscreen/index.jsx"  ]
+}
